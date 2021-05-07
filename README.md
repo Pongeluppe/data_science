@@ -9,4 +9,4 @@ I combine analytical skills, ability to work in team environments. I'm applying 
 
 **Links:**
 * [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
+* [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-pongeluppe-7a355899/)
