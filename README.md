@@ -9,6 +9,8 @@ I combine analytical skills, ability to work in team environments. I'm applying 
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-pongeluppe-7a355899/)
+* [Medium](https://medium.com/@vlp_10)
+
 
 ## Projetos:
 
