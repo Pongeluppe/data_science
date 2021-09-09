@@ -11,7 +11,7 @@ I combine analytical skills, ability to work in team environments. I'm applying 
 * [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-pongeluppe-7a355899/)
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
